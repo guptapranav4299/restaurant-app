@@ -31,3 +31,9 @@ address{
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.navbar-nav{
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
